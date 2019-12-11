@@ -1,0 +1,39 @@
+body {
+    background: url(https://www.apyart.com/2312-thickbox_default/bleu-pastel-fonce-peinture-acrylique.jpg);
+}
+
+#bicoque {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 25%;
+    top: 10px;
+}
+
+ul {
+    margin:0;
+    padding:0;
+   text-align: center;
+   list-style:none; 
+   font-family: "Raleway", sans-serif;
+   color: ghostwhite;;
+}
+
+li {
+    display: inline-block;
+}
+
+p {
+    text-align: justify;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Raleway", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+}

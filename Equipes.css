@@ -1,0 +1,90 @@
+nav .nav {
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+}
+
+body {
+    background: url(https://www.apyart.com/2312-thickbox_default/bleu-pastel-fonce-peinture-acrylique.jpg);
+}
+
+div#centerDiv {
+    text-align: center;
+}
+
+.participants  {
+    columns: 2;
+    line-height: 1.0;
+    font-family: "Raleway", sans-serif;
+    margin: 20px;
+    margin-left: 50px;
+    text-align: center;
+    list-style: inside;
+  }
+
+
+.europe {
+    
+    color: crimson;
+    font-family: "Raleway", sans-serif;
+}
+
+.kr {
+    color: darkviolet;
+    font-family: "Raleway", sans-serif;
+
+}
+
+#bicok {
+    scale: 25%;
+    width: 25%;
+    height: 25%;
+    float: none;
+}
+
+.LMS {
+    color: blue;
+    font-family: "Raleway", sans-serif;
+}
+
+.NA {
+    color: green;
+    font-family: "Raleway", sans-serif;
+
+}
+
+.CH {
+    color: orange;
+    font-family: "Raleway", sans-serif;
+}
+
+p {
+    width: 700px;
+    font-family: "Raleway", sans-serif;
+    text-align-last: center;
+}
+
+h2 {
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+}
+
+h4 {
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+}
+
+#desc {
+    text-align: center;
+}
+
+#centerDiv {
+    text-align: center;
+}
+
+.txt {
+    text-align: center;
+    margin: 0 auto;
+}
+

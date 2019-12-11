@@ -1,0 +1,59 @@
+li {
+    display: inline-block;
+    list-style:none; 
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+}
+
+p {
+    width: 700px;
+    font-family: "Raleway", sans-serif;
+}
+
+body {
+    background: url(https://www.apyart.com/2312-thickbox_default/bleu-pastel-fonce-peinture-acrylique.jpg);
+}
+
+
+#Map {
+    
+    height: 35%;
+    width: 35%;
+    float: right;
+    padding-top: 75px;
+    padding-right: 50px;
+}
+
+#finale {
+    height: 35%;
+    width: 35%;
+    float: right;
+    padding-right: 50px;
+    padding-top: 50px;
+    
+}
+
+#Image1 {
+    
+}
+
+h2 {
+    font-family: "Raleway", sans-serif;
+}
+
+#Tutoriel {
+    display: inline-block;
+    clear: both;
+}
+
+#caption {
+    clear: both;
+    padding-left: 990px;
+    align-self: auto;
+}
+
+#caption2 {
+    padding-left: 900px;
+    padding-bottom: 500px;
+}
+
